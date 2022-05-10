@@ -3,12 +3,12 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	alfa: 'https://api-alphabot.herokuapp.com',
+	alfa: 'https://koyo-zeks-api.herokuapp.com',
 }
 
 // Free apikey
 global.APIKeys = {
-	'https://api-alphabot.herokuapp.com': 'Alphabot',
+	'https://koyo-zeks-api.herokuapp.com': 'proximity',
 }
 
 // setting 
@@ -32,7 +32,7 @@ global.donasi = "./image/donate.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6285217835752"] //ganti agar fitur owner bisa di gunakan
 global.packname = '' //sticker wm ubah
-global.author = '            • Made with ❤️ by Ourtecads BOT •         Find this bot at s.id/stickermenu' //sticker wm ganti nama kalian
+global.author = '            • Made with ❤️ by Ourtecads BOT •           Find this 🤖 bot at s.id/stickermenu' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -53,6 +53,20 @@ global.mess = {
     wait: '⏳ Sedang Di Proses',
 	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
 	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
+}
+
+    global.limitawal = {
+    premium: "Infinity",
+    free: 2,
+    monayawal: 1000
+}
+   global.rpg = {
+   darahawal: 100,
+   besiawal: 15,
+   goldawal: 10,
+   emeraldawal: 5,
+   umpanawal: 5,
+   potionawal: 1
 }
 
 let file = require.resolve(__filename)
