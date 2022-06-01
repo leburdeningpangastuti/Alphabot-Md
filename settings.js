@@ -25,12 +25,12 @@ global.youtube = "https://www.youtube.com/results?search_query=ourtecads.com" //
 global.github = "https://github.com/ourtecads" //bebas
 global.email = "tekadkitamantap@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6285217835752" // nomor wa kalian
-global.ownernomerr = "+6285217835752" //nmr wa kalian
+global.ownernomer = "6287728015689" // nomor wa kalian
+global.ownernomerr = "+6287728015689" //nmr wa kalian
 global.thumbnail = "./image/ourtecads.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donate.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285217835752"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6287728015689"] //ganti agar fitur owner bisa di gunakan
 global.packname = '' //sticker wm ubah
 global.author = '            • Made with ❤️ by Ourtecads BOT •           Find this 🤖 bot at s.id/stickermenu' //sticker wm ganti nama kalian
 global.sessionName = 'session'
